@@ -1,7 +1,7 @@
 name: "Atoj (testing)"
 output_dir: "."
 navbar:
-  title: "Atoj"
+  title: "Atoj (testing)"
   left:
     - text: "Peer-Reviewed Papers"
       href: research.html
