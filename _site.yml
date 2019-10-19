@@ -1,9 +1,9 @@
-name: "Atoj"
+name: "Atoj (testing)"
 output_dir: "."
 navbar:
   title: "Atoj"
   left:
-    - text: "Pee-Reviewed Papers"
+    - text: "Peer-Reviewed Papers"
       href: research.html
     - text: "Working Papers"
       href: teaching.html
@@ -11,7 +11,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-github fa-lg
-      href: http://github.com/zabore
+      href: http://github.com/NBrachowicz
     #- icon: fa-twitter fa-lg
      # href: https://twitter.com/zabormetrics
     - icon: fa-linkedin fa-lg
